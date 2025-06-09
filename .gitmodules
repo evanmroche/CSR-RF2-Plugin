@@ -1,0 +1,3 @@
+[submodule "rF2SharedMemoryMapPlugin"]
+	path = rF2SharedMemoryMapPlugin
+	url = https://github.com/TheIronWolfModding/rF2SharedMemoryMapPlugin.git
